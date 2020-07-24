@@ -1,5 +1,10 @@
 name: main
-on: push
+on: 
+  push:
+    paths-ignore:
+    - docs
+    - script/src/answers.js
+    - script/src/problems.js
 jobs:
   main:
     runs-on: ubuntu-latest
