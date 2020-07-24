@@ -4,10 +4,11 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - name: main
+      - name: setup
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
+      - name: main
         env:
           ACCESS_TOKEN:  ${{ secrets.ACCESS_TOKEN }}
         run: |
