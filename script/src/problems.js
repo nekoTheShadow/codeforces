@@ -1,4 +1,4 @@
-const problems = `
+const problems_tsv = `
 1	Codeforces Beta Round #1	A	Theatre Square	1000	https://codeforces.com/contest/1/problem/A
 1	Codeforces Beta Round #1	B	Spreadsheet	1600	https://codeforces.com/contest/1/problem/B
 1	Codeforces Beta Round #1	C	Ancient Berland Circus	2100	https://codeforces.com/contest/1/problem/C
