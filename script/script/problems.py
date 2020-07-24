@@ -1,4 +1,4 @@
-import json, urllib.request, csv
+import json, urllib.request, pathlib
 
 def get_results(methodname):
     url = f'https://codeforces.com/api/{methodname}'
@@ -26,15 +26,21 @@ for result in get_results('problemset.problems')['problems']:
 
 rows.sort(key=lambda h: (h['contest_id'], h['index']))
 
-with open('result.csv', 'w') as f:
-    fieldnames = [
-        'contest_id',
-        'contest_name',
-        'index',
-        'name',
-        'rating',
-        'url',
-    ]
-    writer = csv.DictWriter(f, fieldnames=fieldnames)
-    writer.writeheader()
-    writer.writerows(rows)
+fieldnames = [
+    'contest_id',
+    'contest_name',
+    'index',
+    'name',
+    'rating',
+    'url',
+]
+
+with (pathlib.Path(__file__).resolve().parent.parent / 'src' / 'problems.js').open('w')as f:
+    f.write('const problems_tsv = `\n')
+
+    for row in rows:
+        line = '\t'.join(str(row[fieldname]).replace('`', '\\`') for fieldname in fieldnames)
+        f.write(f'{line}\n')
+    
+    f.write('`\n')
+    f.write('export default problems\n')

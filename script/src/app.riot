@@ -1,0 +1,128 @@
+<app>
+  <div class="ui inverted large fixed menu">
+    <div class="header item">my codeforces problems</div>
+  </div>
+
+  <div class="ui attaced segment">
+    <br />
+    <br />
+
+    <div class="ui relaxed list">
+      <div class="item">
+        <div class="ui toggle checkbox">
+          <input type="checkbox" onchange="{ changeEducational }">
+          <label>Educational</label>
+        </div>
+      </div>
+
+      <div class="item">
+        <div class="ui toggle checkbox">
+          <input type="checkbox" onchange="{ changeAccepted }">
+          <label>Accepted</label>
+        </div>
+      </div>
+    </div>
+
+    <table is="su-table" class="ui sortable celled teal striped table" data="{ problems }">
+      <thead>
+        <tr>
+          <th is="su-th" field="contest_id">contest_id</th>
+          <th is="su-th" field="contest_name">contest_name</th>
+          <th is="su-th" field="index">index</th>
+          <th is="su-th" field="name">name</th>
+          <th is="su-th" field="rating">rating</th>
+          <th is="su-th" field="url">url</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr each="{ problem in problems }" class="{ problem.accepted ? 'positive' : '' }" if="{ problem.display }">
+          <td>{ problem.contest_id }</td>
+          <td>{ problem.contest_name }</td>
+          <td>{ problem.index }</td>
+          <td>{ problem.name }</td>
+          <td>{ problem.rating }</td>
+          <td><a href="{ problem.url }" target="_blank">{problem.url}</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    import problems_tsv from './problems.js'
+    import answers_tsv from './answers.js'
+    export default {
+      problems: [],
+      filters: {},
+
+      onBeforeMount(props, state) {
+        let answers = new Map();
+        for (let line of answers_tsv.split('\n')) {
+          let tokens = line.split('\t')
+          if (tokens.length !== 2) {
+            continue
+          }
+
+          let contest_id = this.zerosuppress(tokens[0]);
+          let index = tokens[1].toUpperCase()
+          if (!answers.has(contest_id)) answers.set(contest_id, new Set())
+          answers.get(contest_id).add(index)
+        }
+
+        for (const line of problems_tsv.split('\n')) {
+          const tokens = line.split('\t')
+          if (tokens.length !== 6) {
+            continue
+          }
+          const contest_id = tokens[0]
+          const index = tokens[2].toUpperCase()
+          const problem = { 
+            contest_id: contest_id,
+            contest_name: tokens[1],
+            index: index,
+            name: tokens[3],
+            rating: tokens[4],
+            url: tokens[5],
+            accepted: answers.has(contest_id) && answers.get(contest_id).has(index),
+            display: true,
+          }
+          this.problems.push(problem)
+        }
+      },
+
+      onBeforeUpdate() {
+        for (let i = 0; i < this.problems.length; i++) {
+          this.problems[i].display = Object.values(this.filters).every(filter => filter === null || filter(this.problems[i]))
+        }
+      },
+
+      changeEducational(e) {
+        if (e.target.checked) {
+          this.filters.educational = (problem) => problem.contest_name.startsWith('Educational') 
+        } else {
+          this.filters.educational = null 
+        }
+        this.update()
+      },
+
+      changeAccepted(e) {
+        if (e.target.checked) {
+          this.filters.accepted = (problem) => problem.accepted 
+        } else {
+          this.filters.accepted = null 
+        }
+        this.update()
+      },
+
+      zerosuppress(contest_id) {
+        let x = 0
+        while (x < contest_id.length) {
+          if (contest_id[x] !== '0') {
+            break;
+          }
+          x++
+        }
+        return contest_id.substring(x)
+      }
+    }
+  </script>
+</app>
