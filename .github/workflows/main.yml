@@ -2,7 +2,7 @@ name: main
 on: 
   push:
     paths-ignore:
-    - docs
+    - docs/*
     - script/src/answers.js
     - script/src/problems.js
 jobs:

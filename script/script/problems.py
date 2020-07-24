@@ -43,4 +43,4 @@ with (pathlib.Path(__file__).resolve().parent.parent / 'src' / 'problems.js').op
         f.write(f'{line}\n')
     
     f.write('`\n')
-    f.write('export default problems\n')
+    f.write('export default problems_tsv\n')
