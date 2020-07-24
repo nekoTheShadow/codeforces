@@ -6234,4 +6234,4 @@ const problems_tsv = `
 1390	Testing Beta Round (Unrated)	A	123-sequence	 	https://codeforces.com/contest/1390/problem/A
 1390	Testing Beta Round (Unrated)	B	Right Triangles	 	https://codeforces.com/contest/1390/problem/B
 `
-export default problems
+export default problems_tsv
