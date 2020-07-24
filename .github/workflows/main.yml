@@ -21,7 +21,7 @@ jobs:
           git clone https://github.com/nekoTheShadow/codeforces.git
           cd ${GITHUB_WORKSPACE}/codeforces/script
           python3 script/answers.py
-          python3 script.problems.py
+          python3 script/problems.py
           yarn install
           yarn build
           git add -A
