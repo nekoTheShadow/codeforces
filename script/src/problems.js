@@ -6217,6 +6217,15 @@ const problems_tsv = `
 1381	Codeforces Round #658 (Div. 1)	E	Origami	3300	https://codeforces.com/contest/1381/problem/E
 1382	Codeforces Round #658 (Div. 2)	A	Common Subsequence	800	https://codeforces.com/contest/1382/problem/A
 1382	Codeforces Round #658 (Div. 2)	B	Sequential Nim	1100	https://codeforces.com/contest/1382/problem/B
+1383	Codeforces Round #659 (Div. 1)	A	String Transformation 1	1700	https://codeforces.com/contest/1383/problem/A
+1383	Codeforces Round #659 (Div. 1)	B	GameGame	1900	https://codeforces.com/contest/1383/problem/B
+1383	Codeforces Round #659 (Div. 1)	C	String Transformation 2	3100	https://codeforces.com/contest/1383/problem/C
+1383	Codeforces Round #659 (Div. 1)	D	Rearrange	2800	https://codeforces.com/contest/1383/problem/D
+1383	Codeforces Round #659 (Div. 1)	E	Strange Operation	2800	https://codeforces.com/contest/1383/problem/E
+1383	Codeforces Round #659 (Div. 1)	F	Special Edges	3200	https://codeforces.com/contest/1383/problem/F
+1384	Codeforces Round #659 (Div. 2)	A	Common Prefixes	1200	https://codeforces.com/contest/1384/problem/A
+1384	Codeforces Round #659 (Div. 2)	B1	Koa and the Beach (Easy Version)	1900	https://codeforces.com/contest/1384/problem/B1
+1384	Codeforces Round #659 (Div. 2)	B2	Koa and the Beach (Hard Version)	2200	https://codeforces.com/contest/1384/problem/B2
 1385	Codeforces Round #656 (Div. 3)	A	Three Pairwise Maximums	800	https://codeforces.com/contest/1385/problem/A
 1385	Codeforces Round #656 (Div. 3)	B	Restore the Permutation by Merger	800	https://codeforces.com/contest/1385/problem/B
 1385	Codeforces Round #656 (Div. 3)	C	Make It Good	1200	https://codeforces.com/contest/1385/problem/C
@@ -6231,7 +6240,5 @@ const problems_tsv = `
 1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B1	Village (Minimum)	 	https://codeforces.com/contest/1387/problem/B1
 1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B2	Village (Maximum)	 	https://codeforces.com/contest/1387/problem/B2
 1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	C	Viruses	 	https://codeforces.com/contest/1387/problem/C
-1390	Testing Beta Round (Unrated)	A	123-sequence	 	https://codeforces.com/contest/1390/problem/A
-1390	Testing Beta Round (Unrated)	B	Right Triangles	 	https://codeforces.com/contest/1390/problem/B
 `
 export default problems_tsv
