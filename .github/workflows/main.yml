@@ -24,6 +24,7 @@ jobs:
           git config --global user.email "h.nakamura0903@gmail.com"
           git config --global user.name "nekoTheShadow"
           git clone https://github.com/nekoTheShadow/codeforces.git
+          rm -vrf ${GITHUB_WORKSPACE}/codeforces/docs
           cd ${GITHUB_WORKSPACE}/codeforces/script
           python3 script/answers.py
           python3 script/problems.py
