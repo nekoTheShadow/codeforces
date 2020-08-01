@@ -9,6 +9,9 @@ const answers_tsv = `
 0609	b
 0609	a
 0609	c
+0620	b
+0620	a
+0620	c
 0616	d
 0616	b
 0616	a
