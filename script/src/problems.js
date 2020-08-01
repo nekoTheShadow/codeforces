@@ -6233,12 +6233,24 @@ const problems_tsv = `
 1385	Codeforces Round #656 (Div. 3)	E	Directing Edges	2000	https://codeforces.com/contest/1385/problem/E
 1385	Codeforces Round #656 (Div. 3)	F	Removing Leaves	2300	https://codeforces.com/contest/1385/problem/F
 1385	Codeforces Round #656 (Div. 3)	G	Columns Swaps	2300	https://codeforces.com/contest/1385/problem/G
-1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	A	Colors	 	https://codeforces.com/contest/1386/problem/A
-1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	B	Mixture	 	https://codeforces.com/contest/1386/problem/B
-1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	C	Joker	 	https://codeforces.com/contest/1386/problem/C
-1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	A	Graph	 	https://codeforces.com/contest/1387/problem/A
-1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B1	Village (Minimum)	 	https://codeforces.com/contest/1387/problem/B1
-1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B2	Village (Maximum)	 	https://codeforces.com/contest/1387/problem/B2
-1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	C	Viruses	 	https://codeforces.com/contest/1387/problem/C
+1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	A	Colors	2700	https://codeforces.com/contest/1386/problem/A
+1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	B	Mixture	2900	https://codeforces.com/contest/1386/problem/B
+1386	Baltic Olympiad in Informatics 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	C	Joker	2800	https://codeforces.com/contest/1386/problem/C
+1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	A	Graph	2100	https://codeforces.com/contest/1387/problem/A
+1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B1	Village (Minimum)	2100	https://codeforces.com/contest/1387/problem/B1
+1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B2	Village (Maximum)	2500	https://codeforces.com/contest/1387/problem/B2
+1387	Baltic Olympiad in Informatics 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	C	Viruses	2900	https://codeforces.com/contest/1387/problem/C
+1388	Codeforces Round #660 (Div. 2)	A	Captain Flint and Crew Recruitment	800	https://codeforces.com/contest/1388/problem/A
+1388	Codeforces Round #660 (Div. 2)	B	Captain Flint and a Long Voyage	1000	https://codeforces.com/contest/1388/problem/B
+1388	Codeforces Round #660 (Div. 2)	C	Uncle Bogdan and Country Happiness	1800	https://codeforces.com/contest/1388/problem/C
+1388	Codeforces Round #660 (Div. 2)	D	Captain Flint and Treasure	2000	https://codeforces.com/contest/1388/problem/D
+1388	Codeforces Round #660 (Div. 2)	E	Uncle Bogdan and Projections	2700	https://codeforces.com/contest/1388/problem/E
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	A	LCM Problem	800	https://codeforces.com/contest/1389/problem/A
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	B	Array Walk	1600	https://codeforces.com/contest/1389/problem/B
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	C	Good String	1500	https://codeforces.com/contest/1389/problem/C
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	D	Segment Intersections	2100	https://codeforces.com/contest/1389/problem/D
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	E	Calendar Ambiguity	2200	https://codeforces.com/contest/1389/problem/E
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	F	Bicolored Segments	2600	https://codeforces.com/contest/1389/problem/F
+1389	Educational Codeforces Round 92 (Rated for Div. 2)	G	Directing Edges	2800	https://codeforces.com/contest/1389/problem/G
 `
 export default problems_tsv
