@@ -91,7 +91,7 @@
 
       onBeforeUpdate() {
         for (let i = 0; i < this.problems.length; i++) {
-          this.problems[i].display = Object.values(this.filters).every(filter => filter === null || filter(this.problems[i]))
+          this.problems[i].display = Object.values(this.filters).every(filter => filter(this.problems[i]))
         }
       },
 
@@ -99,7 +99,7 @@
         if (e.target.checked) {
           this.filters.educational = (problem) => problem.contest_name.startsWith('Educational') 
         } else {
-          this.filters.educational = null 
+          delete this.filters.educational 
         }
         this.update()
       },
@@ -108,7 +108,7 @@
         if (e.target.checked) {
           this.filters.accepted = (problem) => problem.accepted 
         } else {
-          this.filters.accepted = null 
+          delete this.filters.accepted
         }
         this.update()
       },
