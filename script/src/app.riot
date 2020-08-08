@@ -8,19 +8,8 @@
     <br />
 
     <div class="ui relaxed list">
-      <div class="item">
-        <div class="ui toggle checkbox">
-          <input type="checkbox" onchange="{ changeEducational }">
-          <label>Educational</label>
-        </div>
-      </div>
-
-      <div class="item">
-        <div class="ui toggle checkbox">
-          <input type="checkbox" onchange="{ changeAccepted }">
-          <label>Accepted</label>
-        </div>
-      </div>
+      <app-checkbox class="item" label="Educational" observable="{obs}" filter="{(problem) => problem.contest_name.startsWith('Educational')}"></app-checkbox>
+      <app-checkbox class="item" label="Accepted" observable="{obs}" filter="{(problem) => problem.accepted }"></app-checkbox>
     </div>
 
     <table is="su-table" class="ui sortable celled teal striped table" data="{ problems }">
@@ -48,13 +37,26 @@
   </div>
 
   <script>
+    import observable from '@riotjs/observable'
     import problems_tsv from './problems.js'
     import answers_tsv from './answers.js'
+    import AppCheckbox from './app-checkbox.riot'
     export default {
       problems: [],
       filters: {},
-
+      obs: null,
+      components: {AppCheckbox},
       onBeforeMount(props, state) {
+        this.obs = observable(this)
+        this.obs.on('checked app-checkbox', (label, filter) => {
+          this.filters[label] = filter
+          this.update()
+        })
+        this.obs.on('unchecked app-checkbox', label => {
+          delete this.filters[label]
+          this.update()
+        })
+
         let answers = new Map();
         for (let line of answers_tsv.split('\n')) {
           let tokens = line.split('\t')
@@ -93,24 +95,6 @@
         for (let i = 0; i < this.problems.length; i++) {
           this.problems[i].display = Object.values(this.filters).every(filter => filter(this.problems[i]))
         }
-      },
-
-      changeEducational(e) {
-        if (e.target.checked) {
-          this.filters.educational = (problem) => problem.contest_name.startsWith('Educational') 
-        } else {
-          delete this.filters.educational 
-        }
-        this.update()
-      },
-
-      changeAccepted(e) {
-        if (e.target.checked) {
-          this.filters.accepted = (problem) => problem.accepted 
-        } else {
-          delete this.filters.accepted
-        }
-        this.update()
       },
 
       zerosuppress(contest_id) {

@@ -1,0 +1,20 @@
+<app-checkbox>
+  <div>
+    <div class="ui toggle checkbox">
+      <input type="checkbox" onchange="{ changeAppCheckbox }">
+      <label>{props.label}</label>
+    </div>
+  </div>
+
+  <script>
+    export default {
+      changeAppCheckbox(e) {
+        if (e.target.checked) {
+          this.props.observable.trigger('checked app-checkbox', this.props.label, this.props.filter)
+        } else {
+          this.props.observable.trigger('unchecked app-checkbox', this.props.label)
+        }
+      }
+    }
+  </script>
+</app-checkbox>

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@riotjs/hot-reload": "^4.0.1",
+    "@riotjs/observable": "^4.0.4",
     "@riotjs/parcel-plugin-riot": "^4.0.1",
     "parcel-bundler": "^1.12.4",
     "riot": "^4.13.4",
