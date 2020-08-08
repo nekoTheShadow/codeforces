@@ -10,6 +10,7 @@
     <div class="ui relaxed list">
       <app-checkbox class="item" label="Educational" observable="{obs}" filter="{(problem) => problem.contest_name.startsWith('Educational')}"></app-checkbox>
       <app-checkbox class="item" label="Accepted" observable="{obs}" filter="{(problem) => problem.accepted }"></app-checkbox>
+      <app-checkbox class="item" label="Light Blue (~1600)" observable="{obs}" filter="{(problem) => problem.rating <= 1600 }"></app-checkbox>
     </div>
 
     <table is="su-table" class="ui sortable celled teal striped table" data="{ problems }">
@@ -82,7 +83,7 @@
             contest_name: tokens[1],
             index: index,
             name: tokens[3],
-            rating: tokens[4],
+            rating: parseInt(tokens[4], 10),
             url: tokens[5],
             accepted: answers.has(contest_id) && answers.get(contest_id).has(index),
             display: true,
