@@ -6252,18 +6252,18 @@ const problems_tsv = `
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	E	Calendar Ambiguity	2200	https://codeforces.com/contest/1389/problem/E
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	F	Bicolored Segments	2600	https://codeforces.com/contest/1389/problem/F
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	G	Directing Edges	2800	https://codeforces.com/contest/1389/problem/G
-1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	 	https://codeforces.com/contest/1393/problem/A
-1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	 	https://codeforces.com/contest/1393/problem/B
-1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	 	https://codeforces.com/contest/1393/problem/C
-1393	Codeforces Round #662 (Div. 2)	D	Rarity and New Dress	 	https://codeforces.com/contest/1393/problem/D
-1393	Codeforces Round #662 (Div. 2)	E1	Twilight and Ancient Scroll (easier version)	 	https://codeforces.com/contest/1393/problem/E1
-1393	Codeforces Round #662 (Div. 2)	E2	Twilight and Ancient Scroll (harder version)	 	https://codeforces.com/contest/1393/problem/E2
+1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	800	https://codeforces.com/contest/1393/problem/A
+1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	1400	https://codeforces.com/contest/1393/problem/B
+1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	1700	https://codeforces.com/contest/1393/problem/C
+1393	Codeforces Round #662 (Div. 2)	D	Rarity and New Dress	2100	https://codeforces.com/contest/1393/problem/D
+1393	Codeforces Round #662 (Div. 2)	E1	Twilight and Ancient Scroll (easier version)	2800	https://codeforces.com/contest/1393/problem/E1
+1393	Codeforces Round #662 (Div. 2)	E2	Twilight and Ancient Scroll (harder version)	3200	https://codeforces.com/contest/1393/problem/E2
 1399	Codeforces Round #661 (Div. 3)	A	Remove Smallest	800	https://codeforces.com/contest/1399/problem/A
 1399	Codeforces Round #661 (Div. 3)	B	Gifts Fixing	800	https://codeforces.com/contest/1399/problem/B
-1399	Codeforces Round #661 (Div. 3)	C	Boats Competition	 	https://codeforces.com/contest/1399/problem/C
-1399	Codeforces Round #661 (Div. 3)	D	Binary String To Subsequences	 	https://codeforces.com/contest/1399/problem/D
-1399	Codeforces Round #661 (Div. 3)	E1	Weights Division (easy version)	 	https://codeforces.com/contest/1399/problem/E1
-1399	Codeforces Round #661 (Div. 3)	E2	Weights Division (hard version)	 	https://codeforces.com/contest/1399/problem/E2
-1399	Codeforces Round #661 (Div. 3)	F	Yet Another Segments Subset	 	https://codeforces.com/contest/1399/problem/F
+1399	Codeforces Round #661 (Div. 3)	C	Boats Competition	1200	https://codeforces.com/contest/1399/problem/C
+1399	Codeforces Round #661 (Div. 3)	D	Binary String To Subsequences	1500	https://codeforces.com/contest/1399/problem/D
+1399	Codeforces Round #661 (Div. 3)	E1	Weights Division (easy version)	2000	https://codeforces.com/contest/1399/problem/E1
+1399	Codeforces Round #661 (Div. 3)	E2	Weights Division (hard version)	2200	https://codeforces.com/contest/1399/problem/E2
+1399	Codeforces Round #661 (Div. 3)	F	Yet Another Segments Subset	2300	https://codeforces.com/contest/1399/problem/F
 `
 export default problems_tsv
