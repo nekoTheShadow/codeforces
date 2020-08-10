@@ -6252,6 +6252,11 @@ const problems_tsv = `
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	E	Calendar Ambiguity	2200	https://codeforces.com/contest/1389/problem/E
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	F	Bicolored Segments	2600	https://codeforces.com/contest/1389/problem/F
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	G	Directing Edges	2800	https://codeforces.com/contest/1389/problem/G
+1391	Codeforces Round #663 (Div. 2)	A	Suborrays	 	https://codeforces.com/contest/1391/problem/A
+1391	Codeforces Round #663 (Div. 2)	B	Fix You	 	https://codeforces.com/contest/1391/problem/B
+1391	Codeforces Round #663 (Div. 2)	C	Cyclic Permutations 	 	https://codeforces.com/contest/1391/problem/C
+1391	Codeforces Round #663 (Div. 2)	D	505	 	https://codeforces.com/contest/1391/problem/D
+1391	Codeforces Round #663 (Div. 2)	E	Pairs of Pairs	 	https://codeforces.com/contest/1391/problem/E
 1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	800	https://codeforces.com/contest/1393/problem/A
 1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	1400	https://codeforces.com/contest/1393/problem/B
 1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	1700	https://codeforces.com/contest/1393/problem/C

@@ -4,6 +4,9 @@ const answers_tsv = `
 1251	a
 1251	c
 1251	b
+1366	a
+1366	c
+1366	b
 0612	a
 0612	c
 0612	b
