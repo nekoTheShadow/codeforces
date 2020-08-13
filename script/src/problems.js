@@ -6252,17 +6252,25 @@ const problems_tsv = `
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	E	Calendar Ambiguity	2200	https://codeforces.com/contest/1389/problem/E
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	F	Bicolored Segments	2600	https://codeforces.com/contest/1389/problem/F
 1389	Educational Codeforces Round 92 (Rated for Div. 2)	G	Directing Edges	2800	https://codeforces.com/contest/1389/problem/G
-1391	Codeforces Round #663 (Div. 2)	A	Suborrays	 	https://codeforces.com/contest/1391/problem/A
-1391	Codeforces Round #663 (Div. 2)	B	Fix You	 	https://codeforces.com/contest/1391/problem/B
-1391	Codeforces Round #663 (Div. 2)	C	Cyclic Permutations 	 	https://codeforces.com/contest/1391/problem/C
-1391	Codeforces Round #663 (Div. 2)	D	505	 	https://codeforces.com/contest/1391/problem/D
-1391	Codeforces Round #663 (Div. 2)	E	Pairs of Pairs	 	https://codeforces.com/contest/1391/problem/E
+1391	Codeforces Round #663 (Div. 2)	A	Suborrays	800	https://codeforces.com/contest/1391/problem/A
+1391	Codeforces Round #663 (Div. 2)	B	Fix You	800	https://codeforces.com/contest/1391/problem/B
+1391	Codeforces Round #663 (Div. 2)	C	Cyclic Permutations 	1500	https://codeforces.com/contest/1391/problem/C
+1391	Codeforces Round #663 (Div. 2)	D	505	2000	https://codeforces.com/contest/1391/problem/D
+1391	Codeforces Round #663 (Div. 2)	E	Pairs of Pairs	2600	https://codeforces.com/contest/1391/problem/E
 1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	800	https://codeforces.com/contest/1393/problem/A
 1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	1400	https://codeforces.com/contest/1393/problem/B
 1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	1700	https://codeforces.com/contest/1393/problem/C
 1393	Codeforces Round #662 (Div. 2)	D	Rarity and New Dress	2100	https://codeforces.com/contest/1393/problem/D
 1393	Codeforces Round #662 (Div. 2)	E1	Twilight and Ancient Scroll (easier version)	2800	https://codeforces.com/contest/1393/problem/E1
 1393	Codeforces Round #662 (Div. 2)	E2	Twilight and Ancient Scroll (harder version)	3200	https://codeforces.com/contest/1393/problem/E2
+1394	Codeforces Round #664 (Div. 1)	A	Boboniu Chats with Du	1800	https://codeforces.com/contest/1394/problem/A
+1394	Codeforces Round #664 (Div. 1)	B	Boboniu Walks on Graph	2300	https://codeforces.com/contest/1394/problem/B
+1394	Codeforces Round #664 (Div. 1)	C	Boboniu and String	2600	https://codeforces.com/contest/1394/problem/C
+1394	Codeforces Round #664 (Div. 1)	D	Boboniu and Jianghu	2800	https://codeforces.com/contest/1394/problem/D
+1394	Codeforces Round #664 (Div. 1)	E	Boboniu and Banknote Collection	3500	https://codeforces.com/contest/1394/problem/E
+1395	Codeforces Round #664 (Div. 2)	A	Boboniu Likes to Color Balls	1000	https://codeforces.com/contest/1395/problem/A
+1395	Codeforces Round #664 (Div. 2)	B	Boboniu Plays Chess	1100	https://codeforces.com/contest/1395/problem/B
+1395	Codeforces Round #664 (Div. 2)	C	Boboniu and Bit Operations	1600	https://codeforces.com/contest/1395/problem/C
 1399	Codeforces Round #661 (Div. 3)	A	Remove Smallest	800	https://codeforces.com/contest/1399/problem/A
 1399	Codeforces Round #661 (Div. 3)	B	Gifts Fixing	800	https://codeforces.com/contest/1399/problem/B
 1399	Codeforces Round #661 (Div. 3)	C	Boats Competition	1200	https://codeforces.com/contest/1399/problem/C
