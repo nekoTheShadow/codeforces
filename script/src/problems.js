@@ -6271,6 +6271,13 @@ const problems_tsv = `
 1395	Codeforces Round #664 (Div. 2)	A	Boboniu Likes to Color Balls	1000	https://codeforces.com/contest/1395/problem/A
 1395	Codeforces Round #664 (Div. 2)	B	Boboniu Plays Chess	1100	https://codeforces.com/contest/1395/problem/B
 1395	Codeforces Round #664 (Div. 2)	C	Boboniu and Bit Operations	1600	https://codeforces.com/contest/1395/problem/C
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	A	Bad Triangle	800	https://codeforces.com/contest/1398/problem/A
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	B	Substring Removal Game	800	https://codeforces.com/contest/1398/problem/B
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	C	Good Subarrays	1600	https://codeforces.com/contest/1398/problem/C
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	D	Colored Rectangles	1800	https://codeforces.com/contest/1398/problem/D
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	E	Two Types of Spells	2200	https://codeforces.com/contest/1398/problem/E
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	F	Controversial Rounds	2500	https://codeforces.com/contest/1398/problem/F
+1398	Educational Codeforces Round 93 (Rated for Div. 2)	G	Running Competition	2600	https://codeforces.com/contest/1398/problem/G
 1399	Codeforces Round #661 (Div. 3)	A	Remove Smallest	800	https://codeforces.com/contest/1399/problem/A
 1399	Codeforces Round #661 (Div. 3)	B	Gifts Fixing	800	https://codeforces.com/contest/1399/problem/B
 1399	Codeforces Round #661 (Div. 3)	C	Boats Competition	1200	https://codeforces.com/contest/1399/problem/C
