@@ -23,6 +23,8 @@ const answers_tsv = `
 0609	b
 0598	a
 0598	b
+1278	a
+1278	b
 1354	a
 1354	b
 1354	c1
