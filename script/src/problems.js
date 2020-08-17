@@ -6257,6 +6257,15 @@ const problems_tsv = `
 1391	Codeforces Round #663 (Div. 2)	C	Cyclic Permutations 	1500	https://codeforces.com/contest/1391/problem/C
 1391	Codeforces Round #663 (Div. 2)	D	505	2000	https://codeforces.com/contest/1391/problem/D
 1391	Codeforces Round #663 (Div. 2)	E	Pairs of Pairs	2600	https://codeforces.com/contest/1391/problem/E
+1392	Codeforces Global Round 10	A	Omkar and Password	 	https://codeforces.com/contest/1392/problem/A
+1392	Codeforces Global Round 10	B	Omkar and Infinity Clock	 	https://codeforces.com/contest/1392/problem/B
+1392	Codeforces Global Round 10	C	Omkar and Waterslide	 	https://codeforces.com/contest/1392/problem/C
+1392	Codeforces Global Round 10	D	Omkar and Bed Wars	 	https://codeforces.com/contest/1392/problem/D
+1392	Codeforces Global Round 10	E	Omkar and Duck	 	https://codeforces.com/contest/1392/problem/E
+1392	Codeforces Global Round 10	F	Omkar and Landslide	 	https://codeforces.com/contest/1392/problem/F
+1392	Codeforces Global Round 10	G	Omkar and Pies	 	https://codeforces.com/contest/1392/problem/G
+1392	Codeforces Global Round 10	H	ZS Shuffles Cards	 	https://codeforces.com/contest/1392/problem/H
+1392	Codeforces Global Round 10	I	Kevin and Grid	 	https://codeforces.com/contest/1392/problem/I
 1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	800	https://codeforces.com/contest/1393/problem/A
 1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	1400	https://codeforces.com/contest/1393/problem/B
 1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	1700	https://codeforces.com/contest/1393/problem/C
