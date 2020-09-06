@@ -6257,15 +6257,15 @@ const problems_tsv = `
 1391	Codeforces Round #663 (Div. 2)	C	Cyclic Permutations 	1500	https://codeforces.com/contest/1391/problem/C
 1391	Codeforces Round #663 (Div. 2)	D	505	2000	https://codeforces.com/contest/1391/problem/D
 1391	Codeforces Round #663 (Div. 2)	E	Pairs of Pairs	2600	https://codeforces.com/contest/1391/problem/E
-1392	Codeforces Global Round 10	A	Omkar and Password	 	https://codeforces.com/contest/1392/problem/A
-1392	Codeforces Global Round 10	B	Omkar and Infinity Clock	 	https://codeforces.com/contest/1392/problem/B
-1392	Codeforces Global Round 10	C	Omkar and Waterslide	 	https://codeforces.com/contest/1392/problem/C
-1392	Codeforces Global Round 10	D	Omkar and Bed Wars	 	https://codeforces.com/contest/1392/problem/D
-1392	Codeforces Global Round 10	E	Omkar and Duck	 	https://codeforces.com/contest/1392/problem/E
-1392	Codeforces Global Round 10	F	Omkar and Landslide	 	https://codeforces.com/contest/1392/problem/F
-1392	Codeforces Global Round 10	G	Omkar and Pies	 	https://codeforces.com/contest/1392/problem/G
-1392	Codeforces Global Round 10	H	ZS Shuffles Cards	 	https://codeforces.com/contest/1392/problem/H
-1392	Codeforces Global Round 10	I	Kevin and Grid	 	https://codeforces.com/contest/1392/problem/I
+1392	Codeforces Global Round 10	A	Omkar and Password	800	https://codeforces.com/contest/1392/problem/A
+1392	Codeforces Global Round 10	B	Omkar and Infinity Clock	800	https://codeforces.com/contest/1392/problem/B
+1392	Codeforces Global Round 10	C	Omkar and Waterslide	1200	https://codeforces.com/contest/1392/problem/C
+1392	Codeforces Global Round 10	D	Omkar and Bed Wars	1700	https://codeforces.com/contest/1392/problem/D
+1392	Codeforces Global Round 10	E	Omkar and Duck	2100	https://codeforces.com/contest/1392/problem/E
+1392	Codeforces Global Round 10	F	Omkar and Landslide	2400	https://codeforces.com/contest/1392/problem/F
+1392	Codeforces Global Round 10	G	Omkar and Pies	2900	https://codeforces.com/contest/1392/problem/G
+1392	Codeforces Global Round 10	H	ZS Shuffles Cards	3000	https://codeforces.com/contest/1392/problem/H
+1392	Codeforces Global Round 10	I	Kevin and Grid	3300	https://codeforces.com/contest/1392/problem/I
 1393	Codeforces Round #662 (Div. 2)	A	Rainbow Dash, Fluttershy and Chess Coloring	800	https://codeforces.com/contest/1393/problem/A
 1393	Codeforces Round #662 (Div. 2)	B	Applejack and Storages	1400	https://codeforces.com/contest/1393/problem/B
 1393	Codeforces Round #662 (Div. 2)	C	Pinkie Pie Eats Patty-cakes	1700	https://codeforces.com/contest/1393/problem/C
@@ -6280,6 +6280,13 @@ const problems_tsv = `
 1395	Codeforces Round #664 (Div. 2)	A	Boboniu Likes to Color Balls	1000	https://codeforces.com/contest/1395/problem/A
 1395	Codeforces Round #664 (Div. 2)	B	Boboniu Plays Chess	1100	https://codeforces.com/contest/1395/problem/B
 1395	Codeforces Round #664 (Div. 2)	C	Boboniu and Bit Operations	1600	https://codeforces.com/contest/1395/problem/C
+1396	Codeforces Round #666 (Div. 1)	A	Multiples of Length	1600	https://codeforces.com/contest/1396/problem/A
+1396	Codeforces Round #666 (Div. 1)	B	Stoned Game	1800	https://codeforces.com/contest/1396/problem/B
+1396	Codeforces Round #666 (Div. 1)	C	Monster Invaders	2300	https://codeforces.com/contest/1396/problem/C
+1396	Codeforces Round #666 (Div. 1)	D	Rainbow Rectangles	3300	https://codeforces.com/contest/1396/problem/D
+1396	Codeforces Round #666 (Div. 1)	E	Distance Matching	3200	https://codeforces.com/contest/1396/problem/E
+1397	Codeforces Round #666 (Div. 2)	A	Juggling Letters	800	https://codeforces.com/contest/1397/problem/A
+1397	Codeforces Round #666 (Div. 2)	B	Power Sequence	1500	https://codeforces.com/contest/1397/problem/B
 1398	Educational Codeforces Round 93 (Rated for Div. 2)	A	Bad Triangle	800	https://codeforces.com/contest/1398/problem/A
 1398	Educational Codeforces Round 93 (Rated for Div. 2)	B	Substring Removal Game	800	https://codeforces.com/contest/1398/problem/B
 1398	Educational Codeforces Round 93 (Rated for Div. 2)	C	Good Subarrays	1600	https://codeforces.com/contest/1398/problem/C
@@ -6294,5 +6301,30 @@ const problems_tsv = `
 1399	Codeforces Round #661 (Div. 3)	E1	Weights Division (easy version)	2000	https://codeforces.com/contest/1399/problem/E1
 1399	Codeforces Round #661 (Div. 3)	E2	Weights Division (hard version)	2200	https://codeforces.com/contest/1399/problem/E2
 1399	Codeforces Round #661 (Div. 3)	F	Yet Another Segments Subset	2300	https://codeforces.com/contest/1399/problem/F
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	A	String Similarity	800	https://codeforces.com/contest/1400/problem/A
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	B	RPG Protagonist	1700	https://codeforces.com/contest/1400/problem/B
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	C	Binary String Reconstruction	1500	https://codeforces.com/contest/1400/problem/C
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	D	Zigzags	1900	https://codeforces.com/contest/1400/problem/D
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	E	Clear the Multiset	2200	https://codeforces.com/contest/1400/problem/E
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	F	x-prime Substrings	2800	https://codeforces.com/contest/1400/problem/F
+1400	Educational Codeforces Round 94 (Rated for Div. 2)	G	Mercenaries	2600	https://codeforces.com/contest/1400/problem/G
+1401	Codeforces Round #665 (Div. 2)	A	Distance and Axis	900	https://codeforces.com/contest/1401/problem/A
+1401	Codeforces Round #665 (Div. 2)	B	Ternary Sequence	1100	https://codeforces.com/contest/1401/problem/B
+1401	Codeforces Round #665 (Div. 2)	C	Mere Array	1300	https://codeforces.com/contest/1401/problem/C
+1401	Codeforces Round #665 (Div. 2)	D	Maximum Distributed Tree	1800	https://codeforces.com/contest/1401/problem/D
+1401	Codeforces Round #665 (Div. 2)	E	Divide Square	2400	https://codeforces.com/contest/1401/problem/E
+1401	Codeforces Round #665 (Div. 2)	F	Reverse and Swap	2400	https://codeforces.com/contest/1401/problem/F
+1402	Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	A	Fancy Fence	1800	https://codeforces.com/contest/1402/problem/A
+1402	Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	B	Roads	2900	https://codeforces.com/contest/1402/problem/B
+1402	Central-European Olympiad in Informatics, CEOI 2020, Day 1 (IOI, Unofficial Mirror Contest, Unrated)	C	Star Trek	2600	https://codeforces.com/contest/1402/problem/C
+1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	A	The Potion of Great Power	2400	https://codeforces.com/contest/1403/problem/A
+1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B	Spring cleaning	2300	https://codeforces.com/contest/1403/problem/B
+1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	C	Chess Rush	3200	https://codeforces.com/contest/1403/problem/C
+1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	 	https://codeforces.com/contest/1409/problem/A
+1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	 	https://codeforces.com/contest/1409/problem/B
+1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	 	https://codeforces.com/contest/1409/problem/C
+1409	Codeforces Round #667 (Div. 3)	D	Decrease the Sum of Digits	 	https://codeforces.com/contest/1409/problem/D
+1409	Codeforces Round #667 (Div. 3)	E	Two Platforms	 	https://codeforces.com/contest/1409/problem/E
+1409	Codeforces Round #667 (Div. 3)	F	Subsequences of Length Two	 	https://codeforces.com/contest/1409/problem/F
 `
 export default problems_tsv
