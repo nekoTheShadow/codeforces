@@ -6320,11 +6320,18 @@ const problems_tsv = `
 1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	A	The Potion of Great Power	2400	https://codeforces.com/contest/1403/problem/A
 1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	B	Spring cleaning	2300	https://codeforces.com/contest/1403/problem/B
 1403	Central-European Olympiad in Informatics, CEOI 2020, Day 2 (IOI, Unofficial Mirror Contest, Unrated)	C	Chess Rush	3200	https://codeforces.com/contest/1403/problem/C
-1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	 	https://codeforces.com/contest/1409/problem/A
-1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	 	https://codeforces.com/contest/1409/problem/B
-1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	 	https://codeforces.com/contest/1409/problem/C
-1409	Codeforces Round #667 (Div. 3)	D	Decrease the Sum of Digits	 	https://codeforces.com/contest/1409/problem/D
-1409	Codeforces Round #667 (Div. 3)	E	Two Platforms	 	https://codeforces.com/contest/1409/problem/E
-1409	Codeforces Round #667 (Div. 3)	F	Subsequences of Length Two	 	https://codeforces.com/contest/1409/problem/F
+1404	Codeforces Round #668 (Div. 1)	A	Balanced Bitstring	 	https://codeforces.com/contest/1404/problem/A
+1404	Codeforces Round #668 (Div. 1)	B	Tree Tag	 	https://codeforces.com/contest/1404/problem/B
+1404	Codeforces Round #668 (Div. 1)	C	Fixed Point Removal	 	https://codeforces.com/contest/1404/problem/C
+1404	Codeforces Round #668 (Div. 1)	D	Game of Pairs	 	https://codeforces.com/contest/1404/problem/D
+1404	Codeforces Round #668 (Div. 1)	E	Bricks	 	https://codeforces.com/contest/1404/problem/E
+1405	Codeforces Round #668 (Div. 2)	A	Permutation Forgery	 	https://codeforces.com/contest/1405/problem/A
+1405	Codeforces Round #668 (Div. 2)	B	Array Cancellation	 	https://codeforces.com/contest/1405/problem/B
+1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	800	https://codeforces.com/contest/1409/problem/A
+1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	1100	https://codeforces.com/contest/1409/problem/B
+1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	1200	https://codeforces.com/contest/1409/problem/C
+1409	Codeforces Round #667 (Div. 3)	D	Decrease the Sum of Digits	1500	https://codeforces.com/contest/1409/problem/D
+1409	Codeforces Round #667 (Div. 3)	E	Two Platforms	1800	https://codeforces.com/contest/1409/problem/E
+1409	Codeforces Round #667 (Div. 3)	F	Subsequences of Length Two	2100	https://codeforces.com/contest/1409/problem/F
 `
 export default problems_tsv
