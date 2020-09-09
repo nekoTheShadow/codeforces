@@ -6327,6 +6327,11 @@ const problems_tsv = `
 1404	Codeforces Round #668 (Div. 1)	E	Bricks	 	https://codeforces.com/contest/1404/problem/E
 1405	Codeforces Round #668 (Div. 2)	A	Permutation Forgery	 	https://codeforces.com/contest/1405/problem/A
 1405	Codeforces Round #668 (Div. 2)	B	Array Cancellation	 	https://codeforces.com/contest/1405/problem/B
+1407	Codeforces Round #669 (Div. 2)	A	Ahahahahahahahaha	 	https://codeforces.com/contest/1407/problem/A
+1407	Codeforces Round #669 (Div. 2)	B	Big Vova	 	https://codeforces.com/contest/1407/problem/B
+1407	Codeforces Round #669 (Div. 2)	C	Chocolate Bunny	 	https://codeforces.com/contest/1407/problem/C
+1407	Codeforces Round #669 (Div. 2)	D	Discrete Centrifugal Jumps	 	https://codeforces.com/contest/1407/problem/D
+1407	Codeforces Round #669 (Div. 2)	E	Egor in the Republic of Dagestan	 	https://codeforces.com/contest/1407/problem/E
 1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	800	https://codeforces.com/contest/1409/problem/A
 1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	1100	https://codeforces.com/contest/1409/problem/B
 1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	1200	https://codeforces.com/contest/1409/problem/C
