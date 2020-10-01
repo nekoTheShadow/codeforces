@@ -6337,12 +6337,29 @@ const problems_tsv = `
 1407	Codeforces Round #669 (Div. 2)	C	Chocolate Bunny	1600	https://codeforces.com/contest/1407/problem/C
 1407	Codeforces Round #669 (Div. 2)	D	Discrete Centrifugal Jumps	2200	https://codeforces.com/contest/1407/problem/D
 1407	Codeforces Round #669 (Div. 2)	E	Egor in the Republic of Dagestan	2500	https://codeforces.com/contest/1407/problem/E
+1408	Grakn Forces 2020	A	Circle Coloring	 	https://codeforces.com/contest/1408/problem/A
+1408	Grakn Forces 2020	B	Arrays Sum	 	https://codeforces.com/contest/1408/problem/B
+1408	Grakn Forces 2020	C	Discrete Acceleration	 	https://codeforces.com/contest/1408/problem/C
+1408	Grakn Forces 2020	D	Searchlights	 	https://codeforces.com/contest/1408/problem/D
+1408	Grakn Forces 2020	E	Avoid Rainbow Cycles	 	https://codeforces.com/contest/1408/problem/E
+1408	Grakn Forces 2020	F	Two Different	 	https://codeforces.com/contest/1408/problem/F
+1408	Grakn Forces 2020	G	Clusterization Counting	 	https://codeforces.com/contest/1408/problem/G
+1408	Grakn Forces 2020	H	Rainbow Triples	 	https://codeforces.com/contest/1408/problem/H
+1408	Grakn Forces 2020	I	Bitwise Magic	 	https://codeforces.com/contest/1408/problem/I
 1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	800	https://codeforces.com/contest/1409/problem/A
 1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	1100	https://codeforces.com/contest/1409/problem/B
 1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	1200	https://codeforces.com/contest/1409/problem/C
 1409	Codeforces Round #667 (Div. 3)	D	Decrease the Sum of Digits	1500	https://codeforces.com/contest/1409/problem/D
 1409	Codeforces Round #667 (Div. 3)	E	Two Platforms	1800	https://codeforces.com/contest/1409/problem/E
 1409	Codeforces Round #667 (Div. 3)	F	Subsequences of Length Two	2100	https://codeforces.com/contest/1409/problem/F
+1416	Codeforces Round #673 (Div. 1)	A	k-Amazing Numbers	1500	https://codeforces.com/contest/1416/problem/A
+1416	Codeforces Round #673 (Div. 1)	B	Make Them Equal	2000	https://codeforces.com/contest/1416/problem/B
+1416	Codeforces Round #673 (Div. 1)	C	XOR Inverse	2000	https://codeforces.com/contest/1416/problem/C
+1416	Codeforces Round #673 (Div. 1)	D	Graph and Queries	2600	https://codeforces.com/contest/1416/problem/D
+1416	Codeforces Round #673 (Div. 1)	E	Split	3200	https://codeforces.com/contest/1416/problem/E
+1416	Codeforces Round #673 (Div. 1)	F	Showing Off	3300	https://codeforces.com/contest/1416/problem/F
+1417	Codeforces Round #673 (Div. 2)	A	Copy-paste	800	https://codeforces.com/contest/1417/problem/A
+1417	Codeforces Round #673 (Div. 2)	B	Two Arrays	1100	https://codeforces.com/contest/1417/problem/B
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	A	Buying Torches	1000	https://codeforces.com/contest/1418/problem/A
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	B	Negative Prefixes	1300	https://codeforces.com/contest/1418/problem/B
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	C	Mortal Kombat Tower	1500	https://codeforces.com/contest/1418/problem/C
@@ -6350,5 +6367,32 @@ const problems_tsv = `
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	E	Expected Damage	2400	https://codeforces.com/contest/1418/problem/E
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	F	Equal Product	3000	https://codeforces.com/contest/1418/problem/F
 1418	Educational Codeforces Round 95 (Rated for Div. 2)	G	Three Occurrences	2500	https://codeforces.com/contest/1418/problem/G
+1419	Codeforces Round #671 (Div. 2)	A	Digit Game	900	https://codeforces.com/contest/1419/problem/A
+1419	Codeforces Round #671 (Div. 2)	B	Stairs	1200	https://codeforces.com/contest/1419/problem/B
+1419	Codeforces Round #671 (Div. 2)	C	Killjoy	1500	https://codeforces.com/contest/1419/problem/C
+1419	Codeforces Round #671 (Div. 2)	D1	Sage's Birthday (easy version)	1000	https://codeforces.com/contest/1419/problem/D1
+1419	Codeforces Round #671 (Div. 2)	D2	Sage's Birthday (hard version)	1500	https://codeforces.com/contest/1419/problem/D2
+1419	Codeforces Round #671 (Div. 2)	E	Decryption	2100	https://codeforces.com/contest/1419/problem/E
+1419	Codeforces Round #671 (Div. 2)	F	Rain of Fire	2800	https://codeforces.com/contest/1419/problem/F
+1420	Codeforces Round #672 (Div. 2)	A	Cubes Sorting	900	https://codeforces.com/contest/1420/problem/A
+1420	Codeforces Round #672 (Div. 2)	B	Rock and Lever	1200	https://codeforces.com/contest/1420/problem/B
+1420	Codeforces Round #672 (Div. 2)	C1	Pokémon Army (easy version)	1300	https://codeforces.com/contest/1420/problem/C1
+1420	Codeforces Round #672 (Div. 2)	C2	Pokémon Army (hard version)	2100	https://codeforces.com/contest/1420/problem/C2
+1420	Codeforces Round #672 (Div. 2)	D	Rescue Nibel!	1800	https://codeforces.com/contest/1420/problem/D
+1420	Codeforces Round #672 (Div. 2)	E	Battle Lemmings	2500	https://codeforces.com/contest/1420/problem/E
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	A	Arena of Greed	1400	https://codeforces.com/contest/1425/problem/A
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	B	Blue and Red of Our Faculty!	2600	https://codeforces.com/contest/1425/problem/B
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	C	Captain of Knights	3100	https://codeforces.com/contest/1425/problem/C
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	D	Danger of Mad Snakes	2300	https://codeforces.com/contest/1425/problem/D
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	E	Excitation of Atoms	2200	https://codeforces.com/contest/1425/problem/E
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	F	Flamingoes of Mystery	1400	https://codeforces.com/contest/1425/problem/F
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	H	Huge Boxes of Animal Toys	1300	https://codeforces.com/contest/1425/problem/H
+1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	I	Impressive Harvesting of The Orchard	2800	https://codeforces.com/contest/1425/problem/I
+1426	Codeforces Round #674 (Div. 3)	A	Floor Number	800	https://codeforces.com/contest/1426/problem/A
+1426	Codeforces Round #674 (Div. 3)	B	Symmetric Matrix	900	https://codeforces.com/contest/1426/problem/B
+1426	Codeforces Round #674 (Div. 3)	C	Increase and Copy	1100	https://codeforces.com/contest/1426/problem/C
+1426	Codeforces Round #674 (Div. 3)	D	Non-zero Segments	1500	https://codeforces.com/contest/1426/problem/D
+1426	Codeforces Round #674 (Div. 3)	E	Rock, Paper, Scissors	1800	https://codeforces.com/contest/1426/problem/E
+1426	Codeforces Round #674 (Div. 3)	F	Number of Subsequences	2000	https://codeforces.com/contest/1426/problem/F
 `
 export default problems_tsv
