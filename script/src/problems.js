@@ -6337,15 +6337,15 @@ const problems_tsv = `
 1407	Codeforces Round #669 (Div. 2)	C	Chocolate Bunny	1600	https://codeforces.com/contest/1407/problem/C
 1407	Codeforces Round #669 (Div. 2)	D	Discrete Centrifugal Jumps	2200	https://codeforces.com/contest/1407/problem/D
 1407	Codeforces Round #669 (Div. 2)	E	Egor in the Republic of Dagestan	2500	https://codeforces.com/contest/1407/problem/E
-1408	Grakn Forces 2020	A	Circle Coloring	 	https://codeforces.com/contest/1408/problem/A
-1408	Grakn Forces 2020	B	Arrays Sum	 	https://codeforces.com/contest/1408/problem/B
-1408	Grakn Forces 2020	C	Discrete Acceleration	 	https://codeforces.com/contest/1408/problem/C
-1408	Grakn Forces 2020	D	Searchlights	 	https://codeforces.com/contest/1408/problem/D
-1408	Grakn Forces 2020	E	Avoid Rainbow Cycles	 	https://codeforces.com/contest/1408/problem/E
-1408	Grakn Forces 2020	F	Two Different	 	https://codeforces.com/contest/1408/problem/F
-1408	Grakn Forces 2020	G	Clusterization Counting	 	https://codeforces.com/contest/1408/problem/G
-1408	Grakn Forces 2020	H	Rainbow Triples	 	https://codeforces.com/contest/1408/problem/H
-1408	Grakn Forces 2020	I	Bitwise Magic	 	https://codeforces.com/contest/1408/problem/I
+1408	Grakn Forces 2020	A	Circle Coloring	800	https://codeforces.com/contest/1408/problem/A
+1408	Grakn Forces 2020	B	Arrays Sum	1400	https://codeforces.com/contest/1408/problem/B
+1408	Grakn Forces 2020	C	Discrete Acceleration	1500	https://codeforces.com/contest/1408/problem/C
+1408	Grakn Forces 2020	D	Searchlights	2000	https://codeforces.com/contest/1408/problem/D
+1408	Grakn Forces 2020	E	Avoid Rainbow Cycles	2400	https://codeforces.com/contest/1408/problem/E
+1408	Grakn Forces 2020	F	Two Different	2300	https://codeforces.com/contest/1408/problem/F
+1408	Grakn Forces 2020	G	Clusterization Counting	2700	https://codeforces.com/contest/1408/problem/G
+1408	Grakn Forces 2020	H	Rainbow Triples	3300	https://codeforces.com/contest/1408/problem/H
+1408	Grakn Forces 2020	I	Bitwise Magic	3200	https://codeforces.com/contest/1408/problem/I
 1409	Codeforces Round #667 (Div. 3)	A	Yet Another Two Integers Problem	800	https://codeforces.com/contest/1409/problem/A
 1409	Codeforces Round #667 (Div. 3)	B	Minimum Product	1100	https://codeforces.com/contest/1409/problem/B
 1409	Codeforces Round #667 (Div. 3)	C	Yet Another Array Restoration	1200	https://codeforces.com/contest/1409/problem/C
