@@ -6386,22 +6386,22 @@ const problems_tsv = `
 1422	Codeforces Round #675 (Div. 2)	D	Returning Home	2300	https://codeforces.com/contest/1422/problem/D
 1422	Codeforces Round #675 (Div. 2)	E	Minlexes	2700	https://codeforces.com/contest/1422/problem/E
 1422	Codeforces Round #675 (Div. 2)	F	Boring Queries	2700	https://codeforces.com/contest/1422/problem/F
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	A	Wakanda Forever	 	https://codeforces.com/contest/1423/problem/A
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	B	Valuable Paper	 	https://codeforces.com/contest/1423/problem/B
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	C	Dušan's Railway	 	https://codeforces.com/contest/1423/problem/C
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	D	Does anyone else hate the wind?	 	https://codeforces.com/contest/1423/problem/D
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	E	5G Antenna Towers	 	https://codeforces.com/contest/1423/problem/E
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	F	Coins	 	https://codeforces.com/contest/1423/problem/F
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	G	Growing flowers	 	https://codeforces.com/contest/1423/problem/G
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	H	Virus	 	https://codeforces.com/contest/1423/problem/H
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	I	Lookup Tables	 	https://codeforces.com/contest/1423/problem/I
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	J	Bubble Cup hypothesis	 	https://codeforces.com/contest/1423/problem/J
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	K	Lonely Numbers	 	https://codeforces.com/contest/1423/problem/K
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	L	Light switches	 	https://codeforces.com/contest/1423/problem/L
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	M	Milutin's Plums	 	https://codeforces.com/contest/1423/problem/M
-1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	N	BubbleSquare Tokens	 	https://codeforces.com/contest/1423/problem/N
-1424	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]	G	Years	 	https://codeforces.com/contest/1424/problem/G
-1424	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]	M	Ancient Language	 	https://codeforces.com/contest/1424/problem/M
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	A	Wakanda Forever	3500	https://codeforces.com/contest/1423/problem/A
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	B	Valuable Paper	1900	https://codeforces.com/contest/1423/problem/B
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	C	Dušan's Railway	3500	https://codeforces.com/contest/1423/problem/C
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	D	Does anyone else hate the wind?	3100	https://codeforces.com/contest/1423/problem/D
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	E	5G Antenna Towers	2700	https://codeforces.com/contest/1423/problem/E
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	F	Coins	2700	https://codeforces.com/contest/1423/problem/F
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	G	Growing flowers	3500	https://codeforces.com/contest/1423/problem/G
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	H	Virus	2500	https://codeforces.com/contest/1423/problem/H
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	I	Lookup Tables	3000	https://codeforces.com/contest/1423/problem/I
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	J	Bubble Cup hypothesis	2400	https://codeforces.com/contest/1423/problem/J
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	K	Lonely Numbers	1600	https://codeforces.com/contest/1423/problem/K
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	L	Light switches	2600	https://codeforces.com/contest/1423/problem/L
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	M	Milutin's Plums	2800	https://codeforces.com/contest/1423/problem/M
+1423	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 1]	N	BubbleSquare Tokens	3500	https://codeforces.com/contest/1423/problem/N
+1424	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]	G	Years	1300	https://codeforces.com/contest/1424/problem/G
+1424	Bubble Cup 13 - Finals [Online Mirror, unrated, Div. 2]	M	Ancient Language	2200	https://codeforces.com/contest/1424/problem/M
 1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	A	Arena of Greed	1400	https://codeforces.com/contest/1425/problem/A
 1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	B	Blue and Red of Our Faculty!	2600	https://codeforces.com/contest/1425/problem/B
 1425	2020 ICPC, COMPFEST 12, Indonesia Multi-Provincial Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)	C	Captain of Knights	3100	https://codeforces.com/contest/1425/problem/C
