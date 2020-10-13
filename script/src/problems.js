@@ -6416,5 +6416,20 @@ const problems_tsv = `
 1426	Codeforces Round #674 (Div. 3)	D	Non-zero Segments	1500	https://codeforces.com/contest/1426/problem/D
 1426	Codeforces Round #674 (Div. 3)	E	Rock, Paper, Scissors	1800	https://codeforces.com/contest/1426/problem/E
 1426	Codeforces Round #674 (Div. 3)	F	Number of Subsequences	2000	https://codeforces.com/contest/1426/problem/F
+1427	Codeforces Global Round 11	A	Avoiding Zero	900	https://codeforces.com/contest/1427/problem/A
+1427	Codeforces Global Round 11	B	Chess Cheater	1400	https://codeforces.com/contest/1427/problem/B
+1427	Codeforces Global Round 11	C	The Hard Work of Paparazzi	2000	https://codeforces.com/contest/1427/problem/C
+1427	Codeforces Global Round 11	D	Unshuffling a Deck	2000	https://codeforces.com/contest/1427/problem/D
+1427	Codeforces Global Round 11	E	Xum	2500	https://codeforces.com/contest/1427/problem/E
+1427	Codeforces Global Round 11	F	Boring Card Game	3200	https://codeforces.com/contest/1427/problem/F
+1427	Codeforces Global Round 11	G	One Billion Shades of Grey	3300	https://codeforces.com/contest/1427/problem/G
+1427	Codeforces Global Round 11	H	Prison Break	3500	https://codeforces.com/contest/1427/problem/H
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	A	Number of Apartments	 	https://codeforces.com/contest/1430/problem/A
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	B	Barrels	 	https://codeforces.com/contest/1430/problem/B
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	C	Numbers on Whiteboard	 	https://codeforces.com/contest/1430/problem/C
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	D	String Deletion	 	https://codeforces.com/contest/1430/problem/D
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	E	String Reversal	 	https://codeforces.com/contest/1430/problem/E
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	F	Realistic Gameplay	 	https://codeforces.com/contest/1430/problem/F
+1430	Educational Codeforces Round 96 (Rated for Div. 2)	G	Yet Another DAG Problem	 	https://codeforces.com/contest/1430/problem/G
 `
 export default problems_tsv
