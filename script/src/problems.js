@@ -6380,6 +6380,11 @@ const problems_tsv = `
 1420	Codeforces Round #672 (Div. 2)	C2	Pokémon Army (hard version)	2100	https://codeforces.com/contest/1420/problem/C2
 1420	Codeforces Round #672 (Div. 2)	D	Rescue Nibel!	1800	https://codeforces.com/contest/1420/problem/D
 1420	Codeforces Round #672 (Div. 2)	E	Battle Lemmings	2500	https://codeforces.com/contest/1420/problem/E
+1421	Codeforces Round #676 (Div. 2)	A	XORwice	 	https://codeforces.com/contest/1421/problem/A
+1421	Codeforces Round #676 (Div. 2)	B	Putting Bricks in the Wall	 	https://codeforces.com/contest/1421/problem/B
+1421	Codeforces Round #676 (Div. 2)	C	Palindromifier	 	https://codeforces.com/contest/1421/problem/C
+1421	Codeforces Round #676 (Div. 2)	D	Hexagons	 	https://codeforces.com/contest/1421/problem/D
+1421	Codeforces Round #676 (Div. 2)	E	Swedish Heroes	 	https://codeforces.com/contest/1421/problem/E
 1422	Codeforces Round #675 (Div. 2)	A	Fence	800	https://codeforces.com/contest/1422/problem/A
 1422	Codeforces Round #675 (Div. 2)	B	Nice Matrix	1300	https://codeforces.com/contest/1422/problem/B
 1422	Codeforces Round #675 (Div. 2)	C	Bargain	1700	https://codeforces.com/contest/1422/problem/C
@@ -6424,6 +6429,15 @@ const problems_tsv = `
 1427	Codeforces Global Round 11	F	Boring Card Game	3200	https://codeforces.com/contest/1427/problem/F
 1427	Codeforces Global Round 11	G	One Billion Shades of Grey	3300	https://codeforces.com/contest/1427/problem/G
 1427	Codeforces Global Round 11	H	Prison Break	3500	https://codeforces.com/contest/1427/problem/H
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	A	Box is Pull	 	https://codeforces.com/contest/1428/problem/A
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	B	Belted Rooms	 	https://codeforces.com/contest/1428/problem/B
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	C	ABBB	 	https://codeforces.com/contest/1428/problem/C
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	D	Bouncing Boomerangs	 	https://codeforces.com/contest/1428/problem/D
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	E	Carrots for Rabbits	 	https://codeforces.com/contest/1428/problem/E
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	F	Fruit Sequences	 	https://codeforces.com/contest/1428/problem/F
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	G1	Lucky Numbers (Easy Version)	 	https://codeforces.com/contest/1428/problem/G1
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	G2	Lucky Numbers (Hard Version)	 	https://codeforces.com/contest/1428/problem/G2
+1428	Codeforces Raif Round 1 (Div. 1 + Div. 2)	H	Rotary Laser Lock	 	https://codeforces.com/contest/1428/problem/H
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	A	Number of Apartments	 	https://codeforces.com/contest/1430/problem/A
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	B	Barrels	 	https://codeforces.com/contest/1430/problem/B
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	C	Numbers on Whiteboard	 	https://codeforces.com/contest/1430/problem/C
@@ -6431,5 +6445,12 @@ const problems_tsv = `
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	E	String Reversal	 	https://codeforces.com/contest/1430/problem/E
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	F	Realistic Gameplay	 	https://codeforces.com/contest/1430/problem/F
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	G	Yet Another DAG Problem	 	https://codeforces.com/contest/1430/problem/G
+1433	Codeforces Round #677 (Div. 3)	A	Boring Apartments	 	https://codeforces.com/contest/1433/problem/A
+1433	Codeforces Round #677 (Div. 3)	B	Yet Another Bookshelf	 	https://codeforces.com/contest/1433/problem/B
+1433	Codeforces Round #677 (Div. 3)	C	Dominant Piranha	 	https://codeforces.com/contest/1433/problem/C
+1433	Codeforces Round #677 (Div. 3)	D	Districts Connection	 	https://codeforces.com/contest/1433/problem/D
+1433	Codeforces Round #677 (Div. 3)	E	Two Round Dances	 	https://codeforces.com/contest/1433/problem/E
+1433	Codeforces Round #677 (Div. 3)	F	Zero Remainder Sum 	 	https://codeforces.com/contest/1433/problem/F
+1433	Codeforces Round #677 (Div. 3)	G	Reducing Delivery Cost	 	https://codeforces.com/contest/1433/problem/G
 `
 export default problems_tsv
