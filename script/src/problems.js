@@ -6452,5 +6452,11 @@ const problems_tsv = `
 1433	Codeforces Round #677 (Div. 3)	E	Two Round Dances	1300	https://codeforces.com/contest/1433/problem/E
 1433	Codeforces Round #677 (Div. 3)	F	Zero Remainder Sum 	2100	https://codeforces.com/contest/1433/problem/F
 1433	Codeforces Round #677 (Div. 3)	G	Reducing Delivery Cost	2100	https://codeforces.com/contest/1433/problem/G
+1436	Codeforces Round #678 (Div. 2)	A	Reorder	800	https://codeforces.com/contest/1436/problem/A
+1436	Codeforces Round #678 (Div. 2)	B	Prime Square	900	https://codeforces.com/contest/1436/problem/B
+1436	Codeforces Round #678 (Div. 2)	C	Binary Search	1500	https://codeforces.com/contest/1436/problem/C
+1436	Codeforces Round #678 (Div. 2)	D	Bandit in a City	1900	https://codeforces.com/contest/1436/problem/D
+1436	Codeforces Round #678 (Div. 2)	E	Complicated Computations	2400	https://codeforces.com/contest/1436/problem/E
+1436	Codeforces Round #678 (Div. 2)	F	Sum Over Subsets	2800	https://codeforces.com/contest/1436/problem/F
 `
 export default problems_tsv
