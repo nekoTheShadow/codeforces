@@ -6352,6 +6352,12 @@ const problems_tsv = `
 1409	Codeforces Round #667 (Div. 3)	D	Decrease the Sum of Digits	1500	https://codeforces.com/contest/1409/problem/D
 1409	Codeforces Round #667 (Div. 3)	E	Two Platforms	1800	https://codeforces.com/contest/1409/problem/E
 1409	Codeforces Round #667 (Div. 3)	F	Subsequences of Length Two	2100	https://codeforces.com/contest/1409/problem/F
+1413	Technocup 2021 - Elimination Round 1	A	Finding Sasuke	800	https://codeforces.com/contest/1413/problem/A
+1413	Technocup 2021 - Elimination Round 1	B	A New Technique	1100	https://codeforces.com/contest/1413/problem/B
+1413	Technocup 2021 - Elimination Round 1	C	Perform Easily	1900	https://codeforces.com/contest/1413/problem/C
+1413	Technocup 2021 - Elimination Round 1	D	Shurikens	1700	https://codeforces.com/contest/1413/problem/D
+1413	Technocup 2021 - Elimination Round 1	E	Solo mid Oracle	2100	https://codeforces.com/contest/1413/problem/E
+1413	Technocup 2021 - Elimination Round 1	F	Roads and Ramen	2800	https://codeforces.com/contest/1413/problem/F
 1416	Codeforces Round #673 (Div. 1)	A	k-Amazing Numbers	1500	https://codeforces.com/contest/1416/problem/A
 1416	Codeforces Round #673 (Div. 1)	B	Make Them Equal	2000	https://codeforces.com/contest/1416/problem/B
 1416	Codeforces Round #673 (Div. 1)	C	XOR Inverse	2000	https://codeforces.com/contest/1416/problem/C
@@ -6452,6 +6458,7 @@ const problems_tsv = `
 1433	Codeforces Round #677 (Div. 3)	E	Two Round Dances	1300	https://codeforces.com/contest/1433/problem/E
 1433	Codeforces Round #677 (Div. 3)	F	Zero Remainder Sum 	2100	https://codeforces.com/contest/1433/problem/F
 1433	Codeforces Round #677 (Div. 3)	G	Reducing Delivery Cost	2100	https://codeforces.com/contest/1433/problem/G
+1434	Codeforces Round #679 (Div. 1, based on Technocup 2021 Elimination Round 1)	E	A Convex Game	3500	https://codeforces.com/contest/1434/problem/E
 1436	Codeforces Round #678 (Div. 2)	A	Reorder	800	https://codeforces.com/contest/1436/problem/A
 1436	Codeforces Round #678 (Div. 2)	B	Prime Square	900	https://codeforces.com/contest/1436/problem/B
 1436	Codeforces Round #678 (Div. 2)	C	Binary Search	1500	https://codeforces.com/contest/1436/problem/C
