@@ -6465,5 +6465,12 @@ const problems_tsv = `
 1436	Codeforces Round #678 (Div. 2)	D	Bandit in a City	1900	https://codeforces.com/contest/1436/problem/D
 1436	Codeforces Round #678 (Div. 2)	E	Complicated Computations	2400	https://codeforces.com/contest/1436/problem/E
 1436	Codeforces Round #678 (Div. 2)	F	Sum Over Subsets	2800	https://codeforces.com/contest/1436/problem/F
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	A	Marketing Scheme	 	https://codeforces.com/contest/1437/problem/A
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	B	Reverse Binary Strings	 	https://codeforces.com/contest/1437/problem/B
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	C	Chef Monocarp	 	https://codeforces.com/contest/1437/problem/C
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	D	Minimal Height Tree	 	https://codeforces.com/contest/1437/problem/D
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	E	Make It Increasing	 	https://codeforces.com/contest/1437/problem/E
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	F	Emotional Fishermen	 	https://codeforces.com/contest/1437/problem/F
+1437	Educational Codeforces Round 97 (Rated for Div. 2)	G	Death DBMS	 	https://codeforces.com/contest/1437/problem/G
 `
 export default problems_tsv

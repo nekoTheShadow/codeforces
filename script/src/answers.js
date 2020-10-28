@@ -66,6 +66,8 @@ const answers_tsv = `
 1426	c
 0652	b
 0652	a
+1400	a
+1400	c
 1359	b
 1359	a
 1312	b
