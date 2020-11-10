@@ -6472,5 +6472,22 @@ const problems_tsv = `
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	E	Make It Increasing	2200	https://codeforces.com/contest/1437/problem/E
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	F	Emotional Fishermen	2600	https://codeforces.com/contest/1437/problem/F
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	G	Death DBMS	2600	https://codeforces.com/contest/1437/problem/G
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	A	Extreme Subtraction	1800	https://codeforces.com/contest/1442/problem/A
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	B	Identify the Operations	1800	https://codeforces.com/contest/1442/problem/B
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	C	Graph Transpositions	2400	https://codeforces.com/contest/1442/problem/C
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	D	Sum	2800	https://codeforces.com/contest/1442/problem/D
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	E	Black, White and Grey Tree	3000	https://codeforces.com/contest/1442/problem/E
+1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	F	Differentiating Games	3400	https://codeforces.com/contest/1442/problem/F
+1443	Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)	A	Kids Seating	800	https://codeforces.com/contest/1443/problem/A
+1443	Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)	B	Saving the City	1300	https://codeforces.com/contest/1443/problem/B
+1443	Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)	C	The Delivery Dilemma	1400	https://codeforces.com/contest/1443/problem/C
+1443	Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)	E	Long Permutation	2400	https://codeforces.com/contest/1443/problem/E
+1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	A	Division	1500	https://codeforces.com/contest/1444/problem/A
+1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	B	Divide and Sum	1900	https://codeforces.com/contest/1444/problem/B
+1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	C	Team-Building	2500	https://codeforces.com/contest/1444/problem/C
+1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	D	Rectangular Polyline	2900	https://codeforces.com/contest/1444/problem/D
+1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	E	Finding the Vertex	3500	https://codeforces.com/contest/1444/problem/E
+1445	Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad)	A	Array Rearrangment	800	https://codeforces.com/contest/1445/problem/A
+1445	Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad)	B	Elimination	900	https://codeforces.com/contest/1445/problem/B
 `
 export default problems_tsv
