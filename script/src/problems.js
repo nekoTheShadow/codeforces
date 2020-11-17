@@ -6451,6 +6451,16 @@ const problems_tsv = `
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	E	String Reversal	1900	https://codeforces.com/contest/1430/problem/E
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	F	Realistic Gameplay	2600	https://codeforces.com/contest/1430/problem/F
 1430	Educational Codeforces Round 96 (Rated for Div. 2)	G	Yet Another DAG Problem	2600	https://codeforces.com/contest/1430/problem/G
+1431	Kotlin Heroes 5: ICPC Round	A	Selling Hamburgers	 	https://codeforces.com/contest/1431/problem/A
+1431	Kotlin Heroes 5: ICPC Round	B	Polycarp and the Language of Gods	 	https://codeforces.com/contest/1431/problem/B
+1431	Kotlin Heroes 5: ICPC Round	C	Black Friday	 	https://codeforces.com/contest/1431/problem/C
+1431	Kotlin Heroes 5: ICPC Round	D	Used Markers	 	https://codeforces.com/contest/1431/problem/D
+1431	Kotlin Heroes 5: ICPC Round	E	Chess Match	 	https://codeforces.com/contest/1431/problem/E
+1431	Kotlin Heroes 5: ICPC Round	F	Neural Network Problem	 	https://codeforces.com/contest/1431/problem/F
+1431	Kotlin Heroes 5: ICPC Round	G	Number Deletion Game	 	https://codeforces.com/contest/1431/problem/G
+1431	Kotlin Heroes 5: ICPC Round	H	Rogue-like Game	 	https://codeforces.com/contest/1431/problem/H
+1431	Kotlin Heroes 5: ICPC Round	I	Cyclic Shifts	 	https://codeforces.com/contest/1431/problem/I
+1431	Kotlin Heroes 5: ICPC Round	J	Zero-XOR Array	 	https://codeforces.com/contest/1431/problem/J
 1433	Codeforces Round #677 (Div. 3)	A	Boring Apartments	800	https://codeforces.com/contest/1433/problem/A
 1433	Codeforces Round #677 (Div. 3)	B	Yet Another Bookshelf	800	https://codeforces.com/contest/1433/problem/B
 1433	Codeforces Round #677 (Div. 3)	C	Dominant Piranha	900	https://codeforces.com/contest/1433/problem/C
@@ -6472,6 +6482,12 @@ const problems_tsv = `
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	E	Make It Increasing	2200	https://codeforces.com/contest/1437/problem/E
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	F	Emotional Fishermen	2600	https://codeforces.com/contest/1437/problem/F
 1437	Educational Codeforces Round 97 (Rated for Div. 2)	G	Death DBMS	2600	https://codeforces.com/contest/1437/problem/G
+1438	Codeforces Round #682 (Div. 2)	A	Specific Tastes of Andre 	 	https://codeforces.com/contest/1438/problem/A
+1438	Codeforces Round #682 (Div. 2)	B	Valerii Against Everyone	 	https://codeforces.com/contest/1438/problem/B
+1438	Codeforces Round #682 (Div. 2)	C	Engineer Artem	 	https://codeforces.com/contest/1438/problem/C
+1438	Codeforces Round #682 (Div. 2)	D	Powerful Ksenia	 	https://codeforces.com/contest/1438/problem/D
+1438	Codeforces Round #682 (Div. 2)	E	Yurii Can Do Everything	 	https://codeforces.com/contest/1438/problem/E
+1438	Codeforces Round #682 (Div. 2)	F	Olha and Igor	 	https://codeforces.com/contest/1438/problem/F
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	A	Extreme Subtraction	1800	https://codeforces.com/contest/1442/problem/A
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	B	Identify the Operations	1800	https://codeforces.com/contest/1442/problem/B
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	C	Graph Transpositions	2400	https://codeforces.com/contest/1442/problem/C
@@ -6489,5 +6505,14 @@ const problems_tsv = `
 1444	Codeforces Round #680 (Div. 1, based on Moscow Team Olympiad)	E	Finding the Vertex	3500	https://codeforces.com/contest/1444/problem/E
 1445	Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad)	A	Array Rearrangment	800	https://codeforces.com/contest/1445/problem/A
 1445	Codeforces Round #680 (Div. 2, based on Moscow Team Olympiad)	B	Elimination	900	https://codeforces.com/contest/1445/problem/B
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	A	Knapsack	 	https://codeforces.com/contest/1446/problem/A
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	B	Catching Cheaters	 	https://codeforces.com/contest/1446/problem/B
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	C	Xor Tree	 	https://codeforces.com/contest/1446/problem/C
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	D1	Frequency Problem (Easy Version)	 	https://codeforces.com/contest/1446/problem/D1
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	D2	Frequency Problem (Hard Version)	 	https://codeforces.com/contest/1446/problem/D2
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	E	Long Recovery	 	https://codeforces.com/contest/1446/problem/E
+1446	Codeforces Round #683 (Div. 1, by Meet IT)	F	Line Distance	 	https://codeforces.com/contest/1446/problem/F
+1447	Codeforces Round #683 (Div. 2, by Meet IT)	A	Add Candies	 	https://codeforces.com/contest/1447/problem/A
+1447	Codeforces Round #683 (Div. 2, by Meet IT)	B	Numbers Box	 	https://codeforces.com/contest/1447/problem/B
 `
 export default problems_tsv
