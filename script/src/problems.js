@@ -6488,6 +6488,14 @@ const problems_tsv = `
 1438	Codeforces Round #682 (Div. 2)	D	Powerful Ksenia	 	https://codeforces.com/contest/1438/problem/D
 1438	Codeforces Round #682 (Div. 2)	E	Yurii Can Do Everything	 	https://codeforces.com/contest/1438/problem/E
 1438	Codeforces Round #682 (Div. 2)	F	Olha and Igor	 	https://codeforces.com/contest/1438/problem/F
+1439	Codeforces Round #684 (Div. 1)	A1	Binary Table (Easy Version)	 	https://codeforces.com/contest/1439/problem/A1
+1439	Codeforces Round #684 (Div. 1)	A2	Binary Table (Hard Version)	 	https://codeforces.com/contest/1439/problem/A2
+1439	Codeforces Round #684 (Div. 1)	B	Graph Subset Problem	 	https://codeforces.com/contest/1439/problem/B
+1439	Codeforces Round #684 (Div. 1)	C	Greedy Shopping	 	https://codeforces.com/contest/1439/problem/C
+1439	Codeforces Round #684 (Div. 1)	D	INOI Final Contests	 	https://codeforces.com/contest/1439/problem/D
+1439	Codeforces Round #684 (Div. 1)	E	Cheat and Win	 	https://codeforces.com/contest/1439/problem/E
+1440	Codeforces Round #684 (Div. 2)	A	Buy the String	 	https://codeforces.com/contest/1440/problem/A
+1440	Codeforces Round #684 (Div. 2)	B	Sum of Medians	 	https://codeforces.com/contest/1440/problem/B
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	A	Extreme Subtraction	1800	https://codeforces.com/contest/1442/problem/A
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	B	Identify the Operations	1800	https://codeforces.com/contest/1442/problem/B
 1442	Codeforces Round #681 (Div. 1, based on VK Cup 2019-2020 - Final)	C	Graph Transpositions	2400	https://codeforces.com/contest/1442/problem/C
