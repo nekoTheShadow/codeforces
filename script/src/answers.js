@@ -50,6 +50,8 @@ const answers_tsv = `
 1430	b
 1430	a
 1430	c
+1217	b
+1217	a
 1288	b
 1288	a
 1288	c

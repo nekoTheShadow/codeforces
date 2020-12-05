@@ -6358,12 +6358,12 @@ const problems_tsv = `
 1413	Technocup 2021 - Elimination Round 1	D	Shurikens	1700	https://codeforces.com/contest/1413/problem/D
 1413	Technocup 2021 - Elimination Round 1	E	Solo mid Oracle	2100	https://codeforces.com/contest/1413/problem/E
 1413	Technocup 2021 - Elimination Round 1	F	Roads and Ramen	2800	https://codeforces.com/contest/1413/problem/F
-1415	Technocup 2021 - Elimination Round 2	A	Prison Break	 	https://codeforces.com/contest/1415/problem/A
-1415	Technocup 2021 - Elimination Round 2	B	Repainting Street	 	https://codeforces.com/contest/1415/problem/B
-1415	Technocup 2021 - Elimination Round 2	C	Bouncing Ball	 	https://codeforces.com/contest/1415/problem/C
-1415	Technocup 2021 - Elimination Round 2	D	XOR-gun	 	https://codeforces.com/contest/1415/problem/D
-1415	Technocup 2021 - Elimination Round 2	E	New Game Plus!	 	https://codeforces.com/contest/1415/problem/E
-1415	Technocup 2021 - Elimination Round 2	F	Cakes for Clones	 	https://codeforces.com/contest/1415/problem/F
+1415	Technocup 2021 - Elimination Round 2	A	Prison Break	800	https://codeforces.com/contest/1415/problem/A
+1415	Technocup 2021 - Elimination Round 2	B	Repainting Street	1100	https://codeforces.com/contest/1415/problem/B
+1415	Technocup 2021 - Elimination Round 2	C	Bouncing Ball	1400	https://codeforces.com/contest/1415/problem/C
+1415	Technocup 2021 - Elimination Round 2	D	XOR-gun	2000	https://codeforces.com/contest/1415/problem/D
+1415	Technocup 2021 - Elimination Round 2	E	New Game Plus!	2200	https://codeforces.com/contest/1415/problem/E
+1415	Technocup 2021 - Elimination Round 2	F	Cakes for Clones	2900	https://codeforces.com/contest/1415/problem/F
 1416	Codeforces Round #673 (Div. 1)	A	k-Amazing Numbers	1500	https://codeforces.com/contest/1416/problem/A
 1416	Codeforces Round #673 (Div. 1)	B	Make Them Equal	2000	https://codeforces.com/contest/1416/problem/B
 1416	Codeforces Round #673 (Div. 1)	C	XOR Inverse	2000	https://codeforces.com/contest/1416/problem/C
@@ -6528,13 +6528,13 @@ const problems_tsv = `
 1446	Codeforces Round #683 (Div. 1, by Meet IT)	F	Line Distance	3200	https://codeforces.com/contest/1446/problem/F
 1447	Codeforces Round #683 (Div. 2, by Meet IT)	A	Add Candies	800	https://codeforces.com/contest/1447/problem/A
 1447	Codeforces Round #683 (Div. 2, by Meet IT)	B	Numbers Box	1000	https://codeforces.com/contest/1447/problem/B
-1451	Codeforces Round #685 (Div. 2)	A	Subtract or Divide	 	https://codeforces.com/contest/1451/problem/A
-1451	Codeforces Round #685 (Div. 2)	B	Non-Substring Subsequence	 	https://codeforces.com/contest/1451/problem/B
-1451	Codeforces Round #685 (Div. 2)	C	String Equality	 	https://codeforces.com/contest/1451/problem/C
-1451	Codeforces Round #685 (Div. 2)	D	Circle Game	 	https://codeforces.com/contest/1451/problem/D
-1451	Codeforces Round #685 (Div. 2)	E1	Bitwise Queries (Easy Version)	 	https://codeforces.com/contest/1451/problem/E1
-1451	Codeforces Round #685 (Div. 2)	E2	Bitwise Queries (Hard Version)	 	https://codeforces.com/contest/1451/problem/E2
-1451	Codeforces Round #685 (Div. 2)	F	Nullify The Matrix	 	https://codeforces.com/contest/1451/problem/F
+1451	Codeforces Round #685 (Div. 2)	A	Subtract or Divide	800	https://codeforces.com/contest/1451/problem/A
+1451	Codeforces Round #685 (Div. 2)	B	Non-Substring Subsequence	900	https://codeforces.com/contest/1451/problem/B
+1451	Codeforces Round #685 (Div. 2)	C	String Equality	1400	https://codeforces.com/contest/1451/problem/C
+1451	Codeforces Round #685 (Div. 2)	D	Circle Game	1700	https://codeforces.com/contest/1451/problem/D
+1451	Codeforces Round #685 (Div. 2)	E1	Bitwise Queries (Easy Version)	2000	https://codeforces.com/contest/1451/problem/E1
+1451	Codeforces Round #685 (Div. 2)	E2	Bitwise Queries (Hard Version)	2300	https://codeforces.com/contest/1451/problem/E2
+1451	Codeforces Round #685 (Div. 2)	F	Nullify The Matrix	2700	https://codeforces.com/contest/1451/problem/F
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	A	Robot Program	800	https://codeforces.com/contest/1452/problem/A
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	B	Toy Blocks	1400	https://codeforces.com/contest/1452/problem/B
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	C	Two Brackets	800	https://codeforces.com/contest/1452/problem/C
@@ -6542,19 +6542,25 @@ const problems_tsv = `
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	E	Two Editorials	2500	https://codeforces.com/contest/1452/problem/E
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	F	Divide Powers	2900	https://codeforces.com/contest/1452/problem/F
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	G	Game On Tree	2700	https://codeforces.com/contest/1452/problem/G
-1454	Codeforces Round #686 (Div. 3)	A	Special Permutation	 	https://codeforces.com/contest/1454/problem/A
-1454	Codeforces Round #686 (Div. 3)	B	Unique Bid Auction	 	https://codeforces.com/contest/1454/problem/B
-1454	Codeforces Round #686 (Div. 3)	C	Sequence Transformation	 	https://codeforces.com/contest/1454/problem/C
-1454	Codeforces Round #686 (Div. 3)	D	Number into Sequence	 	https://codeforces.com/contest/1454/problem/D
-1454	Codeforces Round #686 (Div. 3)	E	Number of Simple Paths	 	https://codeforces.com/contest/1454/problem/E
-1454	Codeforces Round #686 (Div. 3)	F	Array Partition	 	https://codeforces.com/contest/1454/problem/F
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	A	Strange Functions	 	https://codeforces.com/contest/1455/problem/A
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	B	Jumps	 	https://codeforces.com/contest/1455/problem/B
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	C	Ping-pong	 	https://codeforces.com/contest/1455/problem/C
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	D	Sequence and Swaps	 	https://codeforces.com/contest/1455/problem/D
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	E	Four Points	 	https://codeforces.com/contest/1455/problem/E
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	F	String and Operations	 	https://codeforces.com/contest/1455/problem/F
-1455	Educational Codeforces Round 99 (Rated for Div. 2)	G	Forbidden Value	 	https://codeforces.com/contest/1455/problem/G
-1456	Codeforces Round #687 (Div. 1, based on Technocup 2021 Elimination Round 2)	E	XOR-ranges	 	https://codeforces.com/contest/1456/problem/E
+1453	Codeforces Round #688 (Div. 2)	A	Cancel the Trains	 	https://codeforces.com/contest/1453/problem/A
+1453	Codeforces Round #688 (Div. 2)	B	Suffix Operations	 	https://codeforces.com/contest/1453/problem/B
+1453	Codeforces Round #688 (Div. 2)	C	Triangles	 	https://codeforces.com/contest/1453/problem/C
+1453	Codeforces Round #688 (Div. 2)	D	Checkpoints	 	https://codeforces.com/contest/1453/problem/D
+1453	Codeforces Round #688 (Div. 2)	E	Dog Snacks	 	https://codeforces.com/contest/1453/problem/E
+1453	Codeforces Round #688 (Div. 2)	F	Even Harder	 	https://codeforces.com/contest/1453/problem/F
+1454	Codeforces Round #686 (Div. 3)	A	Special Permutation	800	https://codeforces.com/contest/1454/problem/A
+1454	Codeforces Round #686 (Div. 3)	B	Unique Bid Auction	800	https://codeforces.com/contest/1454/problem/B
+1454	Codeforces Round #686 (Div. 3)	C	Sequence Transformation	1200	https://codeforces.com/contest/1454/problem/C
+1454	Codeforces Round #686 (Div. 3)	D	Number into Sequence	1300	https://codeforces.com/contest/1454/problem/D
+1454	Codeforces Round #686 (Div. 3)	E	Number of Simple Paths	2000	https://codeforces.com/contest/1454/problem/E
+1454	Codeforces Round #686 (Div. 3)	F	Array Partition	2100	https://codeforces.com/contest/1454/problem/F
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	A	Strange Functions	800	https://codeforces.com/contest/1455/problem/A
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	B	Jumps	1200	https://codeforces.com/contest/1455/problem/B
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	C	Ping-pong	1100	https://codeforces.com/contest/1455/problem/C
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	D	Sequence and Swaps	1600	https://codeforces.com/contest/1455/problem/D
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	E	Four Points	2400	https://codeforces.com/contest/1455/problem/E
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	F	String and Operations	2800	https://codeforces.com/contest/1455/problem/F
+1455	Educational Codeforces Round 99 (Rated for Div. 2)	G	Forbidden Value	2900	https://codeforces.com/contest/1455/problem/G
+1456	Codeforces Round #687 (Div. 1, based on Technocup 2021 Elimination Round 2)	E	XOR-ranges	3500	https://codeforces.com/contest/1456/problem/E
 `
 export default problems_tsv
