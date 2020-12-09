@@ -6528,6 +6528,16 @@ const problems_tsv = `
 1446	Codeforces Round #683 (Div. 1, by Meet IT)	F	Line Distance	3200	https://codeforces.com/contest/1446/problem/F
 1447	Codeforces Round #683 (Div. 2, by Meet IT)	A	Add Candies	800	https://codeforces.com/contest/1447/problem/A
 1447	Codeforces Round #683 (Div. 2, by Meet IT)	B	Numbers Box	1000	https://codeforces.com/contest/1447/problem/B
+1450	Codeforces Global Round 12	A	Avoid Trygub	800	https://codeforces.com/contest/1450/problem/A
+1450	Codeforces Global Round 12	B	Balls of Steel	1000	https://codeforces.com/contest/1450/problem/B
+1450	Codeforces Global Round 12	C1	Errich-Tac-Toe (Easy Version)	2100	https://codeforces.com/contest/1450/problem/C1
+1450	Codeforces Global Round 12	C2	Errich-Tac-Toe (Hard Version)	2300	https://codeforces.com/contest/1450/problem/C2
+1450	Codeforces Global Round 12	D	Rating Compression	1800	https://codeforces.com/contest/1450/problem/D
+1450	Codeforces Global Round 12	E	Capitalism	2700	https://codeforces.com/contest/1450/problem/E
+1450	Codeforces Global Round 12	F	The Struggling Contestant	2400	https://codeforces.com/contest/1450/problem/F
+1450	Codeforces Global Round 12	G	Communism	3500	https://codeforces.com/contest/1450/problem/G
+1450	Codeforces Global Round 12	H1	Multithreading (Easy Version)	2900	https://codeforces.com/contest/1450/problem/H1
+1450	Codeforces Global Round 12	H2	Multithreading (Hard Version)	3300	https://codeforces.com/contest/1450/problem/H2
 1451	Codeforces Round #685 (Div. 2)	A	Subtract or Divide	800	https://codeforces.com/contest/1451/problem/A
 1451	Codeforces Round #685 (Div. 2)	B	Non-Substring Subsequence	900	https://codeforces.com/contest/1451/problem/B
 1451	Codeforces Round #685 (Div. 2)	C	String Equality	1400	https://codeforces.com/contest/1451/problem/C
@@ -6542,12 +6552,12 @@ const problems_tsv = `
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	E	Two Editorials	2500	https://codeforces.com/contest/1452/problem/E
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	F	Divide Powers	2900	https://codeforces.com/contest/1452/problem/F
 1452	Educational Codeforces Round 98 (Rated for Div. 2)	G	Game On Tree	2700	https://codeforces.com/contest/1452/problem/G
-1453	Codeforces Round #688 (Div. 2)	A	Cancel the Trains	 	https://codeforces.com/contest/1453/problem/A
-1453	Codeforces Round #688 (Div. 2)	B	Suffix Operations	 	https://codeforces.com/contest/1453/problem/B
-1453	Codeforces Round #688 (Div. 2)	C	Triangles	 	https://codeforces.com/contest/1453/problem/C
-1453	Codeforces Round #688 (Div. 2)	D	Checkpoints	 	https://codeforces.com/contest/1453/problem/D
-1453	Codeforces Round #688 (Div. 2)	E	Dog Snacks	 	https://codeforces.com/contest/1453/problem/E
-1453	Codeforces Round #688 (Div. 2)	F	Even Harder	 	https://codeforces.com/contest/1453/problem/F
+1453	Codeforces Round #688 (Div. 2)	A	Cancel the Trains	800	https://codeforces.com/contest/1453/problem/A
+1453	Codeforces Round #688 (Div. 2)	B	Suffix Operations	1400	https://codeforces.com/contest/1453/problem/B
+1453	Codeforces Round #688 (Div. 2)	C	Triangles	1700	https://codeforces.com/contest/1453/problem/C
+1453	Codeforces Round #688 (Div. 2)	D	Checkpoints	1900	https://codeforces.com/contest/1453/problem/D
+1453	Codeforces Round #688 (Div. 2)	E	Dog Snacks	2300	https://codeforces.com/contest/1453/problem/E
+1453	Codeforces Round #688 (Div. 2)	F	Even Harder	2700	https://codeforces.com/contest/1453/problem/F
 1454	Codeforces Round #686 (Div. 3)	A	Special Permutation	800	https://codeforces.com/contest/1454/problem/A
 1454	Codeforces Round #686 (Div. 3)	B	Unique Bid Auction	800	https://codeforces.com/contest/1454/problem/B
 1454	Codeforces Round #686 (Div. 3)	C	Sequence Transformation	1200	https://codeforces.com/contest/1454/problem/C
