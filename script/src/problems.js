@@ -6572,5 +6572,18 @@ const problems_tsv = `
 1455	Educational Codeforces Round 99 (Rated for Div. 2)	F	String and Operations	2800	https://codeforces.com/contest/1455/problem/F
 1455	Educational Codeforces Round 99 (Rated for Div. 2)	G	Forbidden Value	2900	https://codeforces.com/contest/1455/problem/G
 1456	Codeforces Round #687 (Div. 1, based on Technocup 2021 Elimination Round 2)	E	XOR-ranges	3500	https://codeforces.com/contest/1456/problem/E
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	A	String Generation	800	https://codeforces.com/contest/1461/problem/A
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	B	Find the Spruce	1400	https://codeforces.com/contest/1461/problem/B
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	C	Random Events	1500	https://codeforces.com/contest/1461/problem/C
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	D	Divide and Summarize	1600	https://codeforces.com/contest/1461/problem/D
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	E	Water Level	2200	https://codeforces.com/contest/1461/problem/E
+1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	F	Mathematical Expression	2700	https://codeforces.com/contest/1461/problem/F
+1462	Codeforces Round #690 (Div. 3)	A	Favorite Sequence	 	https://codeforces.com/contest/1462/problem/A
+1462	Codeforces Round #690 (Div. 3)	B	Last Year's Substring	 	https://codeforces.com/contest/1462/problem/B
+1462	Codeforces Round #690 (Div. 3)	C	Unique Number	 	https://codeforces.com/contest/1462/problem/C
+1462	Codeforces Round #690 (Div. 3)	D	Add to Neighbour and Remove	 	https://codeforces.com/contest/1462/problem/D
+1462	Codeforces Round #690 (Div. 3)	E1	Close Tuples (easy version)	 	https://codeforces.com/contest/1462/problem/E1
+1462	Codeforces Round #690 (Div. 3)	E2	Close Tuples (hard version)	 	https://codeforces.com/contest/1462/problem/E2
+1462	Codeforces Round #690 (Div. 3)	F	The Treasure of The Segments	 	https://codeforces.com/contest/1462/problem/F
 `
 export default problems_tsv
