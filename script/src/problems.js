@@ -6578,12 +6578,12 @@ const problems_tsv = `
 1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	D	Divide and Summarize	1600	https://codeforces.com/contest/1461/problem/D
 1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	E	Water Level	2200	https://codeforces.com/contest/1461/problem/E
 1461	Codeforces Round #689 (Div. 2, based on Zed Code Competition)	F	Mathematical Expression	2700	https://codeforces.com/contest/1461/problem/F
-1462	Codeforces Round #690 (Div. 3)	A	Favorite Sequence	 	https://codeforces.com/contest/1462/problem/A
-1462	Codeforces Round #690 (Div. 3)	B	Last Year's Substring	 	https://codeforces.com/contest/1462/problem/B
-1462	Codeforces Round #690 (Div. 3)	C	Unique Number	 	https://codeforces.com/contest/1462/problem/C
-1462	Codeforces Round #690 (Div. 3)	D	Add to Neighbour and Remove	 	https://codeforces.com/contest/1462/problem/D
-1462	Codeforces Round #690 (Div. 3)	E1	Close Tuples (easy version)	 	https://codeforces.com/contest/1462/problem/E1
-1462	Codeforces Round #690 (Div. 3)	E2	Close Tuples (hard version)	 	https://codeforces.com/contest/1462/problem/E2
-1462	Codeforces Round #690 (Div. 3)	F	The Treasure of The Segments	 	https://codeforces.com/contest/1462/problem/F
+1462	Codeforces Round #690 (Div. 3)	A	Favorite Sequence	800	https://codeforces.com/contest/1462/problem/A
+1462	Codeforces Round #690 (Div. 3)	B	Last Year's Substring	800	https://codeforces.com/contest/1462/problem/B
+1462	Codeforces Round #690 (Div. 3)	C	Unique Number	900	https://codeforces.com/contest/1462/problem/C
+1462	Codeforces Round #690 (Div. 3)	D	Add to Neighbour and Remove	1400	https://codeforces.com/contest/1462/problem/D
+1462	Codeforces Round #690 (Div. 3)	E1	Close Tuples (easy version)	1500	https://codeforces.com/contest/1462/problem/E1
+1462	Codeforces Round #690 (Div. 3)	E2	Close Tuples (hard version)	1700	https://codeforces.com/contest/1462/problem/E2
+1462	Codeforces Round #690 (Div. 3)	F	The Treasure of The Segments	1800	https://codeforces.com/contest/1462/problem/F
 `
 export default problems_tsv
